@@ -1,1 +1,3 @@
-new readme.md
+git checkout master
+
+git -m main
